@@ -17,7 +17,7 @@ Now you will create a conda environment to install R in. This one is called `R_e
 conda create -n R_env
 ```
 
-You will then nead to itiate your conda environment.
+You will then nead to itiate conda so you can work with your new environment.
 
 ```
 conda init bash
