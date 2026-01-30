@@ -32,7 +32,7 @@ conda activate R_env
 and install R:
 
 ```
-conda install -c r r r-essentials
+conda install -c conda-forge r-base
 ```
 
 (Lucy note: is this overkill? I just took it from here: https://www.biostars.org/p/450316/)
