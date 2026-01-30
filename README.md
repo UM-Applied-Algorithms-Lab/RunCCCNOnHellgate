@@ -35,8 +35,6 @@ and install R:
 conda install -c conda-forge r-base
 ```
 
-(Lucy note: is this overkill? I just took it from here: https://www.biostars.org/p/450316/)
-
 Once this finishes, you should be able to open an interactive R session by running
 
 ```
